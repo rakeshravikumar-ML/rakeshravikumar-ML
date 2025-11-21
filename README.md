@@ -45,9 +45,9 @@ https://github.com/rakeshravikumar-ML/projects
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rakeshravikumar-ML&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshravikumar-ML&layout=c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshravikumar-ML&theme=radical&hide=html,css)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rakeshravikumar-ML&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=rakeshravikumar-ML&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML&theme=radical&margin-w=15&margin-h=15)
 
