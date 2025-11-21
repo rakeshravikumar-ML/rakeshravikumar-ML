@@ -49,13 +49,11 @@ https://github.com/rakeshravikumar-ML/projects
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rakeshravikumar-ML&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML&theme=radical&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML&theme=radical)
 
 ![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakeshravikumar-ML&theme=react-dark)
 
-![snake gif](https://github.com/rakeshravikumar-ML/rakeshravikumar-ML/blob/output/github-contribution-grid-snake.svg)
-
-![3D Graph](https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/example.svg)
+![snake gif](https://raw.githubusercontent.com/rakeshravikumar-ML/rakeshravikumar-ML/output/github-contribution-grid-snake.svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=rakeshravikumar-ML&label=Profile%20views&color=ff69b4&style=flat)
 
