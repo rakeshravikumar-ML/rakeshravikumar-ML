@@ -47,7 +47,7 @@ https://github.com/rakeshravikumar-ML/projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshravikumar-ML&theme=radical&hide=html,css)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rakeshravikumar-ML&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rakeshravikumar-ML1&theme=dark)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML&theme=radical)
 
