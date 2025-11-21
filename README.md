@@ -44,3 +44,9 @@ https://github.com/rakeshravikumar-ML/projects
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rakeshravikumar-ML&show_icons=true&theme=radical)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML)
+
+
