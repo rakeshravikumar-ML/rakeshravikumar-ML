@@ -47,15 +47,7 @@ https://github.com/rakeshravikumar-ML/projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshravikumar-ML&theme=radical&hide=html,css)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rakeshravikumar-ML1&theme=dark)](https://git.io/streak-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML&theme=radical)
-
 ![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakeshravikumar-ML&theme=react-dark)
-
-![snake gif](https://raw.githubusercontent.com/rakeshravikumar-ML/rakeshravikumar-ML/output/github-contribution-grid-snake.svg)
-
-![Visitors](https://komarev.com/ghpvc/?username=rakeshravikumar-ML&label=Profile%20views&color=ff69b4&style=flat)
 
 
 
