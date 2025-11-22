@@ -90,8 +90,16 @@ Explore all projects:
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/rakesh-ravikumar-554279a9  
-- **Email:** rakeshravikumarml@gmail.com  
-- **GitHub:** https://github.com/rakeshravikumar-ML  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakesh-ravikumar-554279a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Rakesh-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:rakeshravikumarml@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://instagram.com/ravikumarrakesh">
+    <img src="https://img.shields.io/badge/Instagram-Rakesh-pink?style=flat&logo=instagram"/>
+  </a>
+</p>
 
 ---
