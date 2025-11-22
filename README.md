@@ -47,22 +47,13 @@ I combine a technical support background, strong problem-solving skills, and han
 
 ---
 
-## Selected Projects
+## Repositories
 
-### **Pneumonia Detection (CNN)**
-Deep learning pipeline for medical image classification with preprocessing, augmentation, evaluation, and visual explainability.
+- [projects](https://github.com/rakeshravikumar-ML/projects)
+- [pneumonia-prediction](https://github.com/rakeshravikumar-ML/pneumonia-prediction)
+- [employee-attrition](https://github.com/rakeshravikumar-ML/employee-attrition)
+- [food-vision-cnn](https://github.com/rakeshravikumar-ML/food-vision-cnn)
 
-### **Employee Attrition Prediction**
-Full ML workflow including EDA, preprocessing, class imbalance handling, modeling, and explainability.
-
-### **Food Vision CNN**
-Image classification model trained using transfer learning techniques.
-
-### **Tech Support RAG Assistant**
-LLM-powered retrieval system designed for real-world troubleshooting workflows.
-
-Explore all projects:  
-**https://github.com/rakeshravikumar-ML/projects**
 
 ---
 
