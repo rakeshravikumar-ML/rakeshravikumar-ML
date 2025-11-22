@@ -94,7 +94,7 @@ Explore all projects:
   <a href="https://www.linkedin.com/in/rakesh-ravikumar-554279a9">
     <img src="https://img.shields.io/badge/LinkedIn-Rakesh-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:rakeshravikumarml@gmail.com">
+  <a href="mailto:rakesh.ravikumar.0@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"/>
   </a>
   <a href="https://instagram.com/ravikumarrakesh">
