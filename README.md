@@ -50,7 +50,7 @@ I combine a technical support background, strong problem-solving skills, and han
 ## Repositories
 
 - [Classic Machine Learning](https://github.com/rakeshravikumar-ML/projects/tree/main/classic_ml)
-- [pneumonia-prediction](https://github.com/rakeshravikumar-ML/pneumonia-prediction)
+- [Deep Learning](https://github.com/rakeshravikumar-ML/projects/tree/main/deep_learning)
 - [employee-attrition](https://github.com/rakeshravikumar-ML/employee-attrition)
 - [food-vision-cnn](https://github.com/rakeshravikumar-ML/food-vision-cnn)
 
