@@ -1,95 +1,82 @@
 <h1 align="center">Rakesh Ravikumar</h1>
 <p align="center">
-  Machine Learning Developer • AI/ML Engineering • Data Exploration • Applied Deep Learning
+  Junior Machine Learning / AI Systems Candidate • Applied ML • GenAI / RAG • Support-Focused AI
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/rakeshravikumar-ML?style=flat&color=0aff9d"/>
-  <img src="https://img.shields.io/github/stars/rakeshravikumar-ML?style=flat&color=8e44ad"/>
-  <img src="https://komarev.com/ghpvc/?username=rakeshravikumar-ML&color=1e90ff&style=flat"/>
+  <a href="https://www.linkedin.com/in/rakesh-ravikumar-554279a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:rakesh.ravikumar.0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I’m an AI/ML developer based in Canada, currently completing a master's in Artificial Intelligence.  
-My work focuses on building practical, real-world machine learning solutions, from classical ML to deep learning and RAG-based applications.  
+I’m a junior machine learning / AI systems candidate with a technical support and IT operations background, currently pursuing a **Master of Science in Artificial Intelligence**.
 
-I combine a technical support background, strong problem-solving skills, and hands-on project experience to develop deployable, meaningful AI systems.
+My work focuses on building practical, portfolio-driven projects across:
+- **Applied Machine Learning**
+- **Generative AI / RAG applications**
+- **AI Systems / MLOps foundations**
 
-**Interests include:**
-- Classical ML models, evaluation, interpretability  
-- Deep Learning (CNNs, Transfer Learning)  
-- NLP fundamentals and model fine-tuning  
-- LLM-based applications and RAG systems  
-- Docker-powered AI infrastructure on local and edge devices (Jetson, x86 servers)
+I’m especially interested in support-focused AI, structured problem solving, deployable ML workflows, and turning real-world business problems into usable AI applications.
 
 ---
 
-## Technical Skills
+## Core Skills
 
-### Machine Learning & AI
-- Regression, Classification, Decision Trees, Random Forests  
-- CNNs, Deep Learning pipelines, TensorFlow/Keras  
-- NLP preprocessing, tokenization, embeddings  
+**Languages & Data**
+- Python, SQL, Pandas, NumPy
 
-### Tools & Frameworks
-- Python, NumPy, Pandas, Scikit-learn  
-- TensorFlow, FastAPI, Jupyter  
-- Docker, Portainer, Nginx Proxy Manager, Authelia  
+**Machine Learning**
+- Scikit-learn, model evaluation, feature preparation, imbalanced classification, Optuna
 
-### Infrastructure & Deployment
-- Jetson Orin Nano (GPU workloads)  
-- Self-hosted ML environments (Docker-compose)  
-- REST APIs for ML inference  
-- GCP: BigQuery ML • Basic AWS & Azure understanding  
+**AI / LLM Applications**
+- LangChain, LangGraph, LangMem concepts, RAG workflows, tool-calling, ChromaDB, SQLite
 
----
+**App & API Development**
+- FastAPI, Streamlit
 
-## Repositories
-
-- [Classic Machine Learning](https://github.com/rakeshravikumar-ML/projects/tree/main/classic_ml)
-- [Natural Language Processing](https://github.com/rakeshravikumar-ML/projects/tree/main/deep_learning/NLP)
-- [Computer Vision](https://github.com/rakeshravikumar-ML/projects/tree/main/deep_learning/computer_vision)
-
+**Systems & Deployment**
+- Docker, Linux / Windows environments, AWS EC2 fundamentals, self-hosted app workflows
 
 ---
 
-## GitHub Statistics
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshravikumar-ML&show_icons=true&rank_icon=github&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshravikumar-ML&layout=compact&theme=react&hide=html,css" height="160"/>
-</p>
+### Applied ML
+- [Telecom Customer Churn Prediction](https://github.com/rakeshravikumar-ML/projects/tree/main/applied-ml/telecom-customer-churn-prediction)  
+  End-to-end churn prediction pipeline with EDA, class imbalance handling, model training, Optuna tuning, and a Streamlit prediction app.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakeshravikumar-ML&theme=react" height="170"/>
-</p>
+### GenAI / RAG
+- [Insurance Claim Support AI Agent](https://github.com/rakeshravikumar-ML/projects/tree/main/genai-rag/insurance-claim-support-ai-agent)  
+  Memory-aware support assistant using RAG, tool-calling, and structured conversational workflows.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakeshravikumar-ML&theme=onestar&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+- [AI-Powered Customer Support Copilot](https://github.com/rakeshravikumar-ML/projects/tree/main/genai-rag/ai-powered-customer-support-copilot)  
+  Support-focused AI application built around retrieval, contextual responses, and modular app design.
+
+### AI Systems / MLOps
+- [PCAP StoryTeller](https://github.com/rakeshravikumar-ML/projects/tree/main/ai-systems-mlops/pcap-storyteller)  
+  Python-based packet analysis workflow that converts PCAP activity into structured troubleshooting narratives.
 
 ---
 
-## Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakeshravikumar-ML&theme=react-dark)
+## Currently Building / Learning
+
+- Practical machine learning portfolio projects
+- RAG and memory-aware AI application patterns
+- Dockerized AI app workflows
+- GCP fundamentals for AI / ML workflows
+- AI systems and MLOps-adjacent deployment practices
 
 ---
 
 ## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakesh-ravikumar-554279a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Rakesh-blue?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:rakesh.ravikumar.0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"/>
-  </a>
-  <a href="https://instagram.com/ravikumarrakesh">
-    <img src="https://img.shields.io/badge/Instagram-Rakesh-pink?style=flat&logo=instagram"/>
-  </a>
-</p>
-
----
+- **Portfolio:** *(add your website link here)*
+- **LinkedIn:** [Rakesh Ravikumar](https://www.linkedin.com/in/rakesh-ravikumar-ai)
+- **Email:** rakesh.ravikumar.0@gmail.com
