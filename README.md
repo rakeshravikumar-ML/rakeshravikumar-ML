@@ -77,6 +77,6 @@ I’m especially interested in support-focused AI, structured problem solving, d
 
 ## Contact
 
-- **Portfolio:** *portfolio.cyberode.net*
+- **Portfolio:** *https://portfolio.cyberode.net*
 - **LinkedIn:** [Rakesh Ravikumar](https://www.linkedin.com/in/rakesh-ravikumar-ai)
 - **Email:** rakesh.ravikumar.0@gmail.com
